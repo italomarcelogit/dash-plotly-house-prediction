@@ -77,20 +77,20 @@ elementos = [
         dbc.Col([
             html.B("Looking For"),
             dcc.Dropdown(options=getCol('finalidade'), value=0, id='id-finalidade')
-        ], width=5), 
+        ], width=5, lg=2), 
         
         dbc.Col([
             html.B("City"),
             dcc.Dropdown(getCol('cidade'), value=0, id='id-cidade')
-        ], width=5),
+        ], width=5, lg=2),
         dbc.Col([
             html.B("Local"),
             dcc.Dropdown(getCol('bairro'), value=5, id='id-bairro')
-        ], width=5),
+        ], width=5, lg=2),
         dbc.Col([
             html.B("Type"),
             dcc.Dropdown(getCol('tipo'), value=0, id='id-tipo')
-        ], width=5), 
+        ], width=5, lg=2), 
          
     # ], justify='left'),
 
@@ -98,19 +98,19 @@ elementos = [
         dbc.Col([
             html.B("Beds"),
             dcc.Dropdown(getCol('quarto'), 3, id='id-quarto')
-        ], width=3), 
+        ], width=3, lg=1), 
         dbc.Col([
             html.B("Baths"),
             dcc.Dropdown(getCol('banheiro'), 2, id='id-banheiro')
-        ], width=3), 
+        ], width=3, lg=1), 
         dbc.Col([
             html.B("Garage"),
             dcc.Dropdown(getCol('vaga'), 2, id='id-garagem')
-        ], width=3), 
+        ], width=3, lg=1), 
         dbc.Col([
             html.B("Feet"),
             dcc.Input(id='id-mt2', placeholder="45.12", type="text", value=100, size="2")
-        ], width=1), 
+        ], width=1, lg=1), 
         
 
     ], justify='left'),
@@ -126,9 +126,9 @@ elementos = [
 
     # PREVISAO
 
-    # total
+    
     dbc.Row([
-
+        # total
         dbc.Col([
             dbc.Card(
                 dbc.CardBody([
@@ -138,13 +138,13 @@ elementos = [
                     ])
                 ]), color = 'lightgreen'                
             )
-        ], width=9)
+        ], width=9, lg=3),
         
-    ], justify="center"),
+    # ], justify="center"),
     
     # aluguel
-    dbc.Row([ html.Br() ], justify="center"),
-    dbc.Row([
+    # dbc.Row([ html.Br() ], justify="center"),
+    # dbc.Row([
         dbc.Col([
             dbc.Card(
                 dbc.CardBody([
@@ -154,16 +154,16 @@ elementos = [
                     ])
                 ]), color = 'lightblue'                
             )
-        ], width=9),
+        ], width=9, lg=3),
 
         
         
         
-    ], justify="center"),
+    # ], justify="center"),
     
-    dbc.Row([ html.Br() ], justify="center"),
+    # dbc.Row([ html.Br() ], justify="center"),
     # condominio
-    dbc.Row([
+    # dbc.Row([
         dbc.Col([
             dbc.Card(
                 dbc.CardBody([
@@ -174,14 +174,14 @@ elementos = [
                 ]), color = 'lightblue'                
             ),
             
-        ], width=9),
+        ], width=9, lg=3),
         
         
-    ], justify="center"),
+    # ], justify="center"),
 
-    dbc.Row([ html.Br() ], justify="center"),
+    # dbc.Row([ html.Br() ], justify="center"),
     # IPTU
-    dbc.Row([
+    # dbc.Row([
         dbc.Col([
             dbc.Card(
                 dbc.CardBody([
@@ -191,7 +191,7 @@ elementos = [
                     ])
                 ]), color = 'lightblue'                
             )
-        ], width=9),
+        ], width=9, lg=3),
         
         
     ], justify="center"),
@@ -333,6 +333,6 @@ def update_prev_iptu(finalidade,cidade,tipo,bairro,quarto,banheiro, garagem,mt2)
 if __name__ == '__main__':
     os.system('cls')
     inicializaLog()
-    app.run_server(debug=True, port=8080)
+    app.run_server(debug=False, port=8080)
     # app.run(debug=True, port=os.getenv("PORT", default=5000))
     # app.run_server(port=3030)
