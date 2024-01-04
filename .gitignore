@@ -1,3 +1,6 @@
 __pycache__/
 data-backup/
 venv/
+passo-a-passo.txt
+data/coleta.log
+coleta.log
