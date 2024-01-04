@@ -203,7 +203,7 @@ app.layout = dbc.Container(
 )
 def atualiza_filtro(finalidade, cidade, tipo, bairro, quarto, banheiro, vaga, mt2):
     meuLog(MSG=f"Filtro: {finalidade} | {cidade} | {tipo} | {bairro} | {quarto} | {banheiro} | {vaga} | {mt2}")
-    return f"Filtro: {finalidade} | {cidade} | {tipo} | {bairro} | {quarto} | {banheiro} | {vaga} | {mt2}"
+    return f"Dropdowns/Input values: {finalidade} | {cidade} | {tipo} | {bairro} | {quarto} | {banheiro} | {vaga} | {mt2}"
 
 # previsão aluguel
 @app.callback(
