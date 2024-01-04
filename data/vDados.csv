@@ -1,0 +1,461 @@
+tipo,bairro,cidade,quarto,banheiro,vaga,mt2,finalidade,tipo_id,bairro_id,cidade_id,finalidade_id
+Apartamento,Aclimação,São Paulo,3,5,5,278,Aluguel,0,26,0,0
+Apartamento,Alto Da Boa Vista,São Paulo,4,5,5,310,Aluguel,0,27,0,0
+Cobertura,Alto Da Boa Vista,São Paulo,3,4,4,270,Aluguel,2,27,0,0
+Cobertura,Alto Da Boa Vista,São Paulo,6,5,5,647,Aluguel,2,27,0,0
+Cobertura,Alto Da Boa Vista,São Paulo,4,4,4,358,Aluguel,2,27,0,0
+Apartamento,Alto Da Boa Vista,São Paulo,3,5,5,309,Aluguel,0,27,0,0
+Cobertura,Alto Da Boa Vista,São Paulo,4,6,6,609,Aluguel,2,27,0,0
+Apartamento,Alto Da Boa Vista,São Paulo,4,6,6,330,Aluguel,0,27,0,0
+Apartamento,Alto Da Boa Vista,São Paulo,4,6,6,329,Aluguel,0,27,0,0
+Cobertura,Alto Da Boa Vista,São Paulo,5,5,5,330,Aluguel,2,27,0,0
+Apartamento,Alto Da Lapa,São Paulo,2,2,2,125,Aluguel,0,8,0,0
+Apartamento,Alto Da Lapa,São Paulo,3,2,2,89,Aluguel,0,8,0,0
+Apartamento,Alto Da Lapa,São Paulo,4,6,6,280,Aluguel,0,8,0,0
+Apartamento,Alto Da Lapa,São Paulo,3,4,4,111,Aluguel,0,8,0,0
+Apartamento,Alto Da Mooca,São Paulo,2,1,1,91,Aluguel,0,61,0,0
+Apartamento,Alto De Pinheiros,São Paulo,3,5,5,263,Aluguel,0,4,0,0
+Apartamento,Alto De Pinheiros,São Paulo,4,5,5,278,Aluguel,0,4,0,0
+Apartamento,Alto De Pinheiros,São Paulo,2,4,4,110,Aluguel,0,4,0,0
+Apartamento,Alto De Pinheiros,São Paulo,4,5,5,263,Aluguel,0,4,0,0
+Apartamento,Alto De Pinheiros,São Paulo,4,5,5,508,Aluguel,0,4,0,0
+Apartamento,Alto De Pinheiros,São Paulo,4,6,6,310,Aluguel,0,4,0,0
+Apartamento,Alto De Pinheiros,São Paulo,4,5,5,316,Aluguel,0,4,0,0
+Apartamento,Alto De Pinheiros,São Paulo,4,6,6,217,Aluguel,0,4,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,35,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Apartamento,Barra Funda,São Paulo,1,1,1,17,Aluguel,0,34,0,0
+Studio,Bela Vista,São Paulo,1,1,1,30,Aluguel,3,21,0,0
+Apartamento,Bela Vista,São Paulo,4,5,5,611,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,3,4,4,250,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,1,1,67,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,3,4,4,191,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,1,1,40,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,2,1,1,82,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,1,1,55,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,3,1,1,170,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,2,3,3,135,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,2,2,2,75,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,1,1,42,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,2,1,1,75,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,1,1,32,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,1,1,42,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,3,3,36,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,2,1,1,60,Aluguel,0,21,0,0
+Apartamento,Bela Vista,São Paulo,1,1,1,40,Aluguel,0,21,0,0
+Apartamento,Bom Retiro,São Paulo,2,1,1,55,Aluguel,0,7,0,0
+Apartamento,Bom Retiro,São Paulo,2,1,1,55,Aluguel,0,7,0,0
+Cobertura,Brooklin,São Paulo,3,3,3,242,Aluguel,2,11,0,0
+Apartamento,Brooklin,São Paulo,4,5,5,240,Aluguel,0,11,0,0
+Apartamento,Brooklin,São Paulo,1,3,3,139,Aluguel,0,11,0,0
+Apartamento,Brooklin,São Paulo,3,4,4,170,Aluguel,0,11,0,0
+Apartamento,Brooklin,São Paulo,1,3,3,108,Aluguel,0,11,0,0
+Apartamento,Brooklin,São Paulo,5,6,6,314,Aluguel,0,11,0,0
+Apartamento,Brooklin,São Paulo,2,2,2,108,Aluguel,0,11,0,0
+Cobertura,Brooklin Paulista,São Paulo,3,4,4,161,Aluguel,2,31,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,19,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Brás,São Paulo,1,1,1,31,Aluguel,0,60,0,0
+Apartamento,Cambuci,São Paulo,2,2,2,90,Aluguel,0,46,0,0
+Apartamento,Campo Belo,São Paulo,4,3,3,210,Aluguel,0,35,0,0
+Apartamento,Campo Belo,São Paulo,4,4,4,320,Aluguel,0,35,0,0
+Apartamento,Campo Belo,São Paulo,4,4,4,228,Aluguel,0,35,0,0
+Apartamento,Campo Belo,São Paulo,4,5,5,215,Aluguel,0,35,0,0
+Apartamento,Campo Belo,São Paulo,3,5,5,192,Aluguel,0,35,0,0
+Apartamento,Campo Belo,São Paulo,5,6,6,368,Aluguel,0,35,0,0
+Apartamento,Campo Belo,São Paulo,3,5,5,242,Aluguel,0,35,0,0
+Cobertura,Campo Belo,São Paulo,4,7,7,389,Aluguel,2,35,0,0
+Apartamento,Campo Belo,São Paulo,3,5,5,233,Aluguel,0,35,0,0
+Apartamento,Campo Belo,São Paulo,4,5,5,325,Aluguel,0,35,0,0
+Apartamento,Campo Grande,São Paulo,2,1,1,50,Aluguel,0,56,0,0
+Apartamento,Carandiru,São Paulo,1,1,1,20,Aluguel,0,59,0,0
+Apartamento,Casa Verde,São Paulo,2,1,1,60,Aluguel,0,53,0,0
+Apartamento,Casa Verde,São Paulo,2,1,1,62,Aluguel,0,53,0,0
+Apartamento,Centro,São Paulo,1,1,1,30,Aluguel,0,39,0,0
+Apartamento,Centro,São Paulo,1,1,1,30,Aluguel,0,39,0,0
+Apartamento,Centro,São Paulo,1,1,1,30,Aluguel,0,39,0,0
+Studio,Centro,São Paulo,1,1,1,35,Aluguel,3,39,0,0
+Apartamento,Centro,São Paulo,1,1,1,37,Aluguel,0,39,0,0
+Apartamento,Cerqueira Cesar,São Paulo,4,4,4,238,Aluguel,0,33,0,0
+Apartamento,Cerqueira Cesar,São Paulo,3,5,5,258,Aluguel,0,33,0,0
+Cobertura,Cerqueira Cesar,São Paulo,5,6,6,858,Aluguel,2,33,0,0
+Apartamento,Chácara Klabin,São Paulo,4,5,5,183,Aluguel,0,51,0,0
+Apartamento,Chácara Klabin,São Paulo,3,3,3,106,Aluguel,0,51,0,0
+Apartamento,Chácara Santo Antônio (zona Sul),São Paulo,4,5,5,268,Aluguel,0,49,0,0
+Cobertura,City Lapa,São Paulo,4,6,6,384,Aluguel,2,32,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,140,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,130,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,4,3,3,396,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,3,3,210,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,210,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,2,2,234,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,4,5,5,230,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,290,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,5,5,280,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,2,2,107,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,4,4,4,277,Aluguel,0,18,0,0
+Cobertura,Higienópolis,São Paulo,4,6,6,576,Aluguel,2,18,0,0
+Apartamento,Higienópolis,São Paulo,4,5,5,530,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,235,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,192,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,230,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,3,3,235,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,4,3,3,200,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,3,3,220,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,4,4,4,460,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,4,5,5,306,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,4,4,4,240,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,2,2,300,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,3,3,257,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,2,2,240,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,290,Aluguel,0,18,0,0
+Apartamento,Higienópolis,São Paulo,3,4,4,240,Aluguel,0,18,0,0
+Apartamento,Itaim Bibi,São Paulo,3,3,3,160,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,2,2,2,130,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,2,3,3,95,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,4,4,171,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,4,5,5,500,Aluguel,0,15,0,0
+Studio,Itaim Bibi,São Paulo,1,1,1,73,Aluguel,3,15,0,0
+Cobertura,Itaim Bibi,São Paulo,4,7,7,265,Aluguel,2,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,4,4,170,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,1,1,1,99,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,5,5,140,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,2,2,103,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,2,4,4,198,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,2,2,100,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,2,4,4,221,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,2,3,3,94,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,2,2,110,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,2,3,3,125,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,1,1,130,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,3,3,160,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,4,5,5,209,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,3,3,240,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,2,2,120,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,2,2,2,90,Aluguel,0,15,0,0
+Apartamento,Itaim Bibi,São Paulo,3,2,2,135,Aluguel,0,15,0,0
+Apartamento,Jabaquara,São Paulo,2,1,1,46,Aluguel,0,20,0,0
+Apartamento,Jabaquara,São Paulo,2,1,1,65,Aluguel,0,20,0,0
+Apartamento,Jabaquara,São Paulo,2,1,1,51,Aluguel,0,20,0,0
+Apartamento,Jardim América,São Paulo,3,4,4,220,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,3,3,110,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,4,4,180,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,2,2,110,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,3,3,190,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,4,7,7,469,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,1,1,1,39,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,4,4,4,362,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,2,2,77,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,3,3,195,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,3,3,140,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,1,1,1,55,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,1,3,3,146,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,5,5,894,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,1,1,91,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,1,1,97,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,3,3,111,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,3,3,195,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,4,5,5,250,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,4,4,4,240,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,5,5,220,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,5,5,160,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,3,3,131,Aluguel,0,5,0,0
+Cobertura,Jardim América,São Paulo,4,6,6,412,Aluguel,2,5,0,0
+Apartamento,Jardim América,São Paulo,3,3,3,150,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,4,4,190,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,3,3,200,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,4,4,250,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,4,3,3,173,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,2,2,162,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,4,4,186,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,4,4,440,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,3,3,140,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,2,3,3,83,Aluguel,0,5,0,0
+Apartamento,Jardim América,São Paulo,3,3,3,210,Aluguel,0,5,0,0
+Apartamento,Jardim Avelino,São Paulo,2,5,5,134,Aluguel,0,55,0,0
+Apartamento,Jardim Europa,São Paulo,3,4,4,301,Aluguel,0,19,0,0
+Apartamento,Jardim Europa,São Paulo,4,5,5,750,Aluguel,0,19,0,0
+Cobertura,Jardim Europa,São Paulo,3,5,5,260,Aluguel,2,19,0,0
+Apartamento,Jardim Guedala,São Paulo,1,3,3,144,Aluguel,0,58,0,0
+Apartamento,Jardim Marajoara,São Paulo,3,6,6,370,Aluguel,0,45,0,0
+Apartamento,Jardim Marajoara,São Paulo,4,6,6,370,Aluguel,0,45,0,0
+Apartamento,Jardim Paulista,São Paulo,2,2,2,160,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,200,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,189,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,220,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,239,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,2,3,3,130,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,184,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,200,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,5,5,227,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,5,5,434,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,2,3,3,160,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,105,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,7,7,587,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,2,2,140,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,131,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,110,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,5,5,382,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,2,4,4,220,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,159,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,239,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,145,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,4,4,280,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,167,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,4,4,158,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,141,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,131,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,2,3,3,130,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,6,6,300,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,2,2,250,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,2,2,112,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,2,3,3,139,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,176,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,126,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,180,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,176,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,2,2,106,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,203,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,4,4,270,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,150,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,5,5,493,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,191,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,1,2,2,56,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,3,3,126,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,247,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,2,4,4,270,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,3,3,258,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,6,6,293,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,4,4,4,350,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,3,4,4,276,Aluguel,0,2,0,0
+Apartamento,Jardim Paulista,São Paulo,2,3,3,109,Aluguel,0,2,0,0
+Apartamento,Jardim Sul,São Paulo,3,2,2,67,Aluguel,0,54,0,0
+Apartamento,Lapa,São Paulo,3,2,2,69,Aluguel,0,41,0,0
+Cobertura,Lauzane Paulista,São Paulo,3,4,4,232,Aluguel,2,40,0,0
+Apartamento,Mandaqui,São Paulo,3,2,2,70,Aluguel,0,28,0,0
+Apartamento,Mandaqui,São Paulo,2,1,1,40,Aluguel,0,28,0,0
+Apartamento,Mandaqui,São Paulo,2,2,2,74,Aluguel,0,28,0,0
+Apartamento,Moema,São Paulo,4,5,5,500,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,5,5,193,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,4,4,150,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,5,5,315,Aluguel,0,3,0,0
+Cobertura,Moema,São Paulo,4,4,4,500,Aluguel,2,3,0,0
+Apartamento,Moema,São Paulo,4,4,4,158,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,5,5,220,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,4,4,170,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,3,3,110,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,5,5,250,Aluguel,0,3,0,0
+Cobertura,Moema,São Paulo,4,5,5,360,Aluguel,2,3,0,0
+Apartamento,Moema,São Paulo,2,3,3,105,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,2,2,170,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,5,5,261,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,3,3,44,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,4,4,190,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,1,1,160,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,5,5,240,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,5,5,245,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,5,5,238,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,5,5,220,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,3,3,120,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,3,3,140,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,6,6,310,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,4,4,165,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,3,4,4,98,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,9,9,700,Aluguel,0,3,0,0
+Apartamento,Moema,São Paulo,4,5,5,208,Aluguel,0,3,0,0
+Cobertura,Moema,São Paulo,2,4,4,255,Aluguel,2,3,0,0
+Apartamento,Moema,São Paulo,3,5,5,350,Aluguel,0,3,0,0
+Cobertura,Moema,São Paulo,4,5,5,270,Aluguel,2,3,0,0
+Apartamento,Moema,São Paulo,4,4,4,391,Aluguel,0,3,0,0
+Apartamento,Mooca,São Paulo,3,3,3,112,Aluguel,0,36,0,0
+Apartamento,Morumbi,São Paulo,4,6,6,256,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,4,6,6,403,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,4,5,5,213,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,4,5,5,241,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,3,3,3,101,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,4,6,6,610,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,4,6,6,373,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,5,7,7,356,Aluguel,0,22,0,0
+Duplex,Morumbi,São Paulo,4,2,2,410,Aluguel,1,22,0,0
+Apartamento,Morumbi,São Paulo,4,5,5,318,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,2,1,1,97,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,3,3,3,140,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,4,6,6,320,Aluguel,0,22,0,0
+Apartamento,Morumbi,São Paulo,3,3,3,180,Aluguel,0,22,0,0
+Apartamento,Pacaembú,São Paulo,4,5,5,220,Aluguel,0,12,0,0
+Apartamento,Pacaembú,São Paulo,4,7,7,496,Aluguel,0,12,0,0
+Apartamento,Pacaembú,São Paulo,3,4,4,134,Aluguel,0,12,0,0
+Apartamento,Panamby,São Paulo,4,4,4,350,Aluguel,0,30,0,0
+Apartamento,Panamby,São Paulo,3,5,5,230,Aluguel,0,30,0,0
+Apartamento,Panamby,São Paulo,4,7,7,336,Aluguel,0,30,0,0
+Apartamento,Panamby,São Paulo,4,5,5,367,Aluguel,0,30,0,0
+Apartamento,Panamby,São Paulo,4,5,5,385,Aluguel,0,30,0,0
+Apartamento,Panamby,São Paulo,4,6,6,300,Aluguel,0,30,0,0
+Apartamento,Paraíso,São Paulo,4,6,6,266,Aluguel,0,16,0,0
+Duplex,Paraíso,São Paulo,2,3,3,114,Aluguel,1,16,0,0
+Apartamento,Paraíso,São Paulo,3,3,3,110,Aluguel,0,16,0,0
+Apartamento,Paraíso,São Paulo,4,6,6,262,Aluguel,0,16,0,0
+Apartamento,Paraíso,São Paulo,4,4,4,160,Aluguel,0,16,0,0
+Apartamento,Paraíso,São Paulo,3,2,2,155,Aluguel,0,16,0,0
+Apartamento,Parque Bristol,São Paulo,2,1,1,67,Aluguel,0,52,0,0
+Apartamento,Parque Bristol,São Paulo,2,1,1,67,Aluguel,0,52,0,0
+Apartamento,Perdizes,São Paulo,4,4,4,198,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,3,4,4,220,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,3,3,3,165,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,3,5,5,190,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,3,3,3,117,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,2,3,3,282,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,3,2,2,102,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,3,3,3,186,Aluguel,0,10,0,0
+Cobertura,Perdizes,São Paulo,3,2,2,312,Aluguel,2,10,0,0
+Apartamento,Perdizes,São Paulo,4,6,6,280,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,4,6,6,215,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,4,5,5,196,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,4,6,6,240,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,4,6,6,200,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,3,6,6,206,Aluguel,0,10,0,0
+Apartamento,Perdizes,São Paulo,2,5,5,235,Aluguel,0,10,0,0
+Apartamento,Pinheiros,São Paulo,3,3,3,196,Aluguel,0,6,0,0
+Duplex,Pinheiros,São Paulo,1,1,1,56,Aluguel,1,6,0,0
+Apartamento,Pinheiros,São Paulo,1,2,2,84,Aluguel,0,6,0,0
+Apartamento,Pinheiros,São Paulo,4,5,5,200,Aluguel,0,6,0,0
+Studio,Pinheiros,São Paulo,1,1,1,35,Aluguel,3,6,0,0
+Apartamento,Pinheiros,São Paulo,2,2,2,132,Aluguel,0,6,0,0
+Apartamento,Pinheiros,São Paulo,3,2,2,110,Aluguel,0,6,0,0
+Apartamento,Pinheiros,São Paulo,2,4,4,124,Aluguel,0,6,0,0
+Apartamento,Pinheiros,São Paulo,3,3,3,130,Aluguel,0,6,0,0
+Apartamento,Pinheiros,São Paulo,3,3,3,130,Aluguel,0,6,0,0
+Apartamento,Pompéia,São Paulo,1,1,1,52,Aluguel,0,43,0,0
+Apartamento,Pompéia,São Paulo,2,2,2,87,Aluguel,0,43,0,0
+Apartamento,Real Parque,São Paulo,5,6,6,337,Aluguel,0,17,0,0
+Apartamento,Real Parque,São Paulo,4,6,6,480,Aluguel,0,17,0,0
+Cobertura,Real Parque,São Paulo,3,6,6,374,Aluguel,2,17,0,0
+Cobertura,Real Parque,São Paulo,4,6,6,375,Aluguel,2,17,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,58,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santa Cecília,São Paulo,1,1,1,30,Aluguel,0,37,0,0
+Apartamento,Santana,São Paulo,3,2,2,100,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,2,2,60,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,2,2,60,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,2,2,2,70,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,3,3,70,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,4,3,3,207,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,3,3,3,125,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,3,2,2,78,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,2,3,3,96,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,2,2,60,Aluguel,0,0,0,0
+Cobertura,Santana,São Paulo,5,7,7,600,Aluguel,2,0,0,0
+Apartamento,Santana,São Paulo,2,1,1,65,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,3,3,3,120,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,1,1,70,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,1,1,42,Aluguel,0,0,0,0
+Cobertura,Santana,São Paulo,3,4,4,246,Aluguel,2,0,0,0
+Apartamento,Santana,São Paulo,1,2,2,54,Aluguel,0,0,0,0
+Cobertura,Santana,São Paulo,4,4,4,242,Aluguel,2,0,0,0
+Apartamento,Santana,São Paulo,4,6,6,250,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,2,2,2,110,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,3,3,95,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,1,1,20,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,1,1,1,32,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,4,5,5,207,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,4,5,5,217,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,3,4,4,159,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,3,3,3,202,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,4,5,5,254,Aluguel,0,0,0,0
+Apartamento,Santana,São Paulo,2,2,2,67,Aluguel,0,0,0,0
+Apartamento,Saúde,São Paulo,4,3,3,380,Aluguel,0,42,0,0
+Apartamento,Tucuruvi,São Paulo,3,2,2,68,Aluguel,0,47,0,0
+Apartamento,Tucuruvi,São Paulo,2,2,2,55,Aluguel,0,47,0,0
+Apartamento,Tucuruvi,São Paulo,1,1,1,43,Aluguel,0,47,0,0
+Apartamento,Vila Andrade,São Paulo,3,3,3,118,Aluguel,0,50,0,0
+Apartamento,Vila Clementino,São Paulo,2,2,2,72,Aluguel,0,38,0,0
+Apartamento,Vila Clementino,São Paulo,2,2,2,72,Aluguel,0,38,0,0
+Cobertura,Vila Guilherme,São Paulo,1,1,1,53,Aluguel,2,29,0,0
+Apartamento,Vila Guilherme,São Paulo,3,1,1,62,Aluguel,0,29,0,0
+Apartamento,Vila Guilherme,São Paulo,1,1,1,42,Aluguel,0,29,0,0
+Apartamento,Vila Leopoldina,São Paulo,3,4,4,124,Aluguel,0,57,0,0
+Apartamento,Vila Leopoldina,São Paulo,2,1,1,70,Aluguel,0,57,0,0
+Apartamento,Vila Madalena,São Paulo,3,3,3,280,Aluguel,0,13,0,0
+Apartamento,Vila Madalena,São Paulo,4,5,5,315,Aluguel,0,13,0,0
+Apartamento,Vila Madalena,São Paulo,3,1,1,71,Aluguel,0,13,0,0
+Cobertura,Vila Madalena,São Paulo,3,4,4,174,Aluguel,2,13,0,0
+Apartamento,Vila Madalena,São Paulo,4,5,5,227,Aluguel,0,13,0,0
+Cobertura,Vila Madalena,São Paulo,2,3,3,145,Aluguel,2,13,0,0
+Apartamento,Vila Madalena,São Paulo,1,1,1,31,Aluguel,0,13,0,0
+Apartamento,Vila Madalena,São Paulo,2,3,3,120,Aluguel,0,13,0,0
+Apartamento,Vila Madalena,São Paulo,4,5,5,164,Aluguel,0,13,0,0
+Cobertura,Vila Mariana,São Paulo,3,5,5,421,Aluguel,2,1,0,0
+Apartamento,Vila Mariana,São Paulo,3,4,4,120,Aluguel,0,1,0,0
+Apartamento,Vila Mariana,São Paulo,4,5,5,272,Aluguel,0,1,0,0
+Apartamento,Vila Mariana,São Paulo,1,1,1,28,Aluguel,0,1,0,0
+Apartamento,Vila Mariana,São Paulo,2,1,1,74,Aluguel,0,1,0,0
+Apartamento,Vila Mariana,São Paulo,2,2,2,83,Aluguel,0,1,0,0
+Apartamento,Vila Mariana,São Paulo,4,5,5,176,Aluguel,0,1,0,0
+Apartamento,Vila Mariana,São Paulo,3,4,4,110,Aluguel,0,1,0,0
+Apartamento,Vila Mascote,São Paulo,2,1,1,55,Aluguel,0,25,0,0
+Cobertura,Vila Mascote,São Paulo,2,2,2,145,Aluguel,2,25,0,0
+Apartamento,Vila Nova Conceição,São Paulo,1,2,2,78,Aluguel,0,9,0,0
+Apartamento,Vila Nova Conceição,São Paulo,3,6,6,270,Aluguel,0,9,0,0
+Apartamento,Vila Nova Conceição,São Paulo,4,5,5,246,Aluguel,0,9,0,0
+Cobertura,Vila Nova Conceição,São Paulo,2,4,4,105,Aluguel,2,9,0,0
+Cobertura,Vila Nova Conceição,São Paulo,3,7,7,357,Aluguel,2,9,0,0
+Duplex,Vila Nova Conceição,São Paulo,3,4,4,170,Aluguel,1,9,0,0
+Apartamento,Vila Nova Conceição,São Paulo,3,6,6,430,Aluguel,0,9,0,0
+Apartamento,Vila Olímpia,São Paulo,3,6,6,206,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,1,1,1,42,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,2,3,3,127,Aluguel,0,14,0,0
+Cobertura,Vila Olímpia,São Paulo,3,4,4,203,Aluguel,2,14,0,0
+Apartamento,Vila Olímpia,São Paulo,1,2,2,90,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,1,2,2,90,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,1,1,1,48,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,2,2,2,56,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,1,2,2,126,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,2,3,3,95,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,3,5,5,273,Aluguel,0,14,0,0
+Apartamento,Vila Olímpia,São Paulo,3,3,3,92,Aluguel,0,14,0,0
+Duplex,Vila Paulicéia,São Paulo,5,4,4,250,Aluguel,1,48,0,0
+Apartamento,Vila Prudente,São Paulo,2,2,2,64,Aluguel,0,44,0,0
+Apartamento,Vila Prudente,São Paulo,3,3,3,93,Aluguel,0,44,0,0
+Cobertura,Vila Romana,São Paulo,2,3,3,116,Aluguel,2,24,0,0
+Cobertura,Vila Romana,São Paulo,2,2,2,116,Aluguel,2,24,0,0
+Apartamento,Vila Romana,São Paulo,2,1,1,83,Aluguel,0,24,0,0
+Studio,Água Branca,São Paulo,1,1,1,39,Aluguel,3,23,0,0
+Studio,Água Branca,São Paulo,1,1,1,39,Aluguel,3,23,0,0
+Studio,Água Branca,São Paulo,1,2,2,43,Aluguel,3,23,0,0
