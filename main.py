@@ -90,7 +90,7 @@ elementos = [
         dbc.Col([
             html.B("Type"),
             dcc.Dropdown(getCol('tipo'), value=0, id='id-tipo')
-        ], width=5, lg=2), 
+        ], width=4, lg=2), 
          
     # ], justify='left'),
 
