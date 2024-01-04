@@ -75,94 +75,57 @@ elementos = [
     # FORMULARIO
     dbc.Row([
         dbc.Col([
-            html.H4("Finalidade"),
+            html.B("Looking For"),
             dcc.Dropdown(options=getCol('finalidade'), value=0, id='id-finalidade')
-        ], width=2), 
+        ], width=5), 
+        
         dbc.Col([
-            html.H4("Cidade"),
+            html.B("City"),
             dcc.Dropdown(getCol('cidade'), value=0, id='id-cidade')
-        ], width=2),
+        ], width=5),
         dbc.Col([
-            html.H4("Tipo"),
-            dcc.Dropdown(getCol('tipo'), value=0, id='id-tipo')
-        ], width=2), 
-        dbc.Col([
-            html.H4("Bairro"),
+            html.B("Local"),
             dcc.Dropdown(getCol('bairro'), value=5, id='id-bairro')
-        ], width=2), 
-    ], justify='left'),
+        ], width=5),
+        dbc.Col([
+            html.B("Type"),
+            dcc.Dropdown(getCol('tipo'), value=0, id='id-tipo')
+        ], width=5), 
+         
+    # ], justify='left'),
 
-    dbc.Row([
+    # dbc.Row([
         dbc.Col([
-            html.H4("Quartos"),
+            html.B("Beds"),
             dcc.Dropdown(getCol('quarto'), 3, id='id-quarto')
-        ], width=2), 
+        ], width=3), 
         dbc.Col([
-            html.H4("Banheiros"),
+            html.B("Baths"),
             dcc.Dropdown(getCol('banheiro'), 2, id='id-banheiro')
-        ], width=2), 
+        ], width=3), 
         dbc.Col([
-            html.H4("Garagem"),
+            html.B("Garage"),
             dcc.Dropdown(getCol('vaga'), 2, id='id-garagem')
-        ], width=2), 
+        ], width=3), 
         dbc.Col([
-            html.H4("Mt2"),
-            dcc.Input(id='id-mt2', placeholder="45.12", type="text", value=100)
-        ], width=2), 
+            html.B("Feet"),
+            dcc.Input(id='id-mt2', placeholder="45.12", type="text", value=100, size="2")
+        ], width=1), 
         
 
     ], justify='left'),
 
     # FILTRO
     dbc.Row([
-        dbc.Col([html.Br(),html.Br(),html.Div(id='od-finalidade')], width=5),
+        dbc.Col([html.Br(),html.Div("Key's value:"),html.Div(id='od-finalidade')], width=10),
+        
+    ], justify='left'),
+    dbc.Row([
         dbc.Col([html.Br(),html.Br(),html.Div(id='resultado')], width=5),
     ], justify='left'),
 
     # PREVISAO
-    html.Br(),html.Br(),html.Br(),
-    # aluguel, condominio, iptu
-    dbc.Row([
 
-        dbc.Col([
-            dbc.Card(
-                dbc.CardBody([
-                    dbc.Col([
-                        html.H3('Aluguel'),
-                        html.H1('R$ 0', id='id_totAluguel')
-                    ])
-                ]), color = 'lightblue'                
-            )
-        ], width=3),
-        dbc.Col([
-            dbc.Card(
-                dbc.CardBody([
-                    dbc.Col([
-                        html.H3('Condomínio'),
-                        html.H1('R$ 0', id='id_totCondominio')
-                    ])
-                ]), color = 'lightblue'                
-            )
-        ], width=3),
-        dbc.Col([
-            dbc.Card(
-                dbc.CardBody([
-                    dbc.Col([
-                        html.H3('IPTU'),
-                        html.H1('R$ 0', id='id_totIptu')
-                    ])
-                ]), color = 'lightblue'                
-            )
-        ], width=3),
-        
-    ], justify="center"),
-    
-    dbc.Row([
-
-        html.Br()
-        
-    ], justify="center"),
-    
     # total
     dbc.Row([
 
@@ -177,7 +140,64 @@ elementos = [
             )
         ], width=9)
         
-    ], justify="center")
+    ], justify="center"),
+    
+    # aluguel
+    dbc.Row([ html.Br() ], justify="center"),
+    dbc.Row([
+        dbc.Col([
+            dbc.Card(
+                dbc.CardBody([
+                    dbc.Col([
+                        html.H3('Aluguel'),
+                        html.H1('R$ 0', id='id_totAluguel')
+                    ])
+                ]), color = 'lightblue'                
+            )
+        ], width=9),
+
+        
+        
+        
+    ], justify="center"),
+    
+    dbc.Row([ html.Br() ], justify="center"),
+    # condominio
+    dbc.Row([
+        dbc.Col([
+            dbc.Card(
+                dbc.CardBody([
+                    dbc.Col([
+                        html.H3('Condomínio'),
+                        html.H1('R$ 0', id='id_totCondominio')
+                    ])
+                ]), color = 'lightblue'                
+            ),
+            
+        ], width=9),
+        
+        
+    ], justify="center"),
+
+    dbc.Row([ html.Br() ], justify="center"),
+    # IPTU
+    dbc.Row([
+        dbc.Col([
+            dbc.Card(
+                dbc.CardBody([
+                    dbc.Col([
+                        html.H3('IPTU'),
+                        html.H1('R$ 0', id='id_totIptu')
+                    ])
+                ]), color = 'lightblue'                
+            )
+        ], width=9),
+        
+        
+    ], justify="center"),
+
+    dbc.Row([ html.Br() ], justify="center"),    
+    
 ]
 
 meuLog(MSG="Criando Dash DBC")
@@ -203,7 +223,7 @@ app.layout = dbc.Container(
 )
 def atualiza_filtro(finalidade, cidade, tipo, bairro, quarto, banheiro, vaga, mt2):
     meuLog(MSG=f"Filtro: {finalidade} | {cidade} | {tipo} | {bairro} | {quarto} | {banheiro} | {vaga} | {mt2}")
-    return f"Dropdowns/Input values: {finalidade} | {cidade} | {tipo} | {bairro} | {quarto} | {banheiro} | {vaga} | {mt2}"
+    return f"{finalidade} | {cidade} | {tipo} | {bairro} | {quarto} | {banheiro} | {vaga} | {mt2}"
 
 # previsão aluguel
 @app.callback(
@@ -313,6 +333,6 @@ def update_prev_iptu(finalidade,cidade,tipo,bairro,quarto,banheiro, garagem,mt2)
 if __name__ == '__main__':
     os.system('cls')
     inicializaLog()
-    app.run_server(debug=False, port=8080)
+    app.run_server(debug=True, port=8080)
     # app.run(debug=True, port=os.getenv("PORT", default=5000))
     # app.run_server(port=3030)
