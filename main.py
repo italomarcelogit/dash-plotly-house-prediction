@@ -183,6 +183,7 @@ elementos = [
 meuLog(MSG="Criando Dash DBC")
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP],
                 meta_tags=[{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}])
+server = app.server
 app.layout = dbc.Container(
     elementos
 )
@@ -312,5 +313,6 @@ def update_prev_iptu(finalidade,cidade,tipo,bairro,quarto,banheiro, garagem,mt2)
 if __name__ == '__main__':
     os.system('cls')
     inicializaLog()
-    app.run(debug=True, port=os.getenv("PORT", default=5000))
+    app.run_server(debug=False, port=8080)
+    # app.run(debug=True, port=os.getenv("PORT", default=5000))
     # app.run_server(port=3030)
