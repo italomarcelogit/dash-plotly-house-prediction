@@ -312,4 +312,5 @@ def update_prev_iptu(finalidade,cidade,tipo,bairro,quarto,banheiro, garagem,mt2)
 if __name__ == '__main__':
     os.system('cls')
     inicializaLog()
-    app.run_server(port=3030)
+    app.run(debug=True, port=os.getenv("PORT", default=5000))
+    # app.run_server(port=3030)
