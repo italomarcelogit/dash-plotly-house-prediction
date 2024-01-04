@@ -3,3 +3,4 @@ dash-bootstrap-components
 pandas
 loguru
 scikit-learn
+gunicorn
