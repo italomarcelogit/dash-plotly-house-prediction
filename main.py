@@ -133,7 +133,7 @@ elementos = [
             dbc.Card(
                 dbc.CardBody([
                     dbc.Col([
-                        html.H3('Total'),
+                        html.H3('Total $'),
                         html.H1('R$ 0.0', id='id_total')
                     ])
                 ]), color = 'lightgreen'                
@@ -149,7 +149,7 @@ elementos = [
             dbc.Card(
                 dbc.CardBody([
                     dbc.Col([
-                        html.H3('Aluguel'),
+                        html.H3('Rent'),
                         html.H1('R$ 0', id='id_totAluguel')
                     ])
                 ]), color = 'lightblue'                
@@ -168,7 +168,7 @@ elementos = [
             dbc.Card(
                 dbc.CardBody([
                     dbc.Col([
-                        html.H3('Condomínio'),
+                        html.H3('Condominium '),
                         html.H1('R$ 0', id='id_totCondominio')
                     ])
                 ]), color = 'lightblue'                
@@ -186,7 +186,7 @@ elementos = [
             dbc.Card(
                 dbc.CardBody([
                     dbc.Col([
-                        html.H3('IPTU'),
+                        html.H3('Tax'),
                         html.H1('R$ 0', id='id_totIptu')
                     ])
                 ]), color = 'lightblue'                
